@@ -9,4 +9,12 @@ Lab 1
 - ps -e : <img width="1024" height="768" alt="ps -e" src="https://github.com/user-attachments/assets/1beae356-c3cd-4fc4-b235-9e738cf01e01" />
 - top and CPU core view: <img width="1024" height="768" alt="top" src="https://github.com/user-attachments/assets/57eef6e8-458f-4409-aaae-10fe9fa631f6" />
 4) Listing & Viewing Files — Commands & Typical Outputs
-- ls variants: 
+- ls variants: <img width="1024" height="768" alt="lsVariants" src="https://github.com/user-attachments/assets/cc6e4a36-aa9b-458d-9519-70f1b2b3e52c" />
+- Create/Edit/View: <img width="1024" height="768" alt="testfileOpen" src="https://github.com/user-attachments/assets/ef9154a6-a586-4da9-b294-9fb5f442773b" />
+ <img width="1024" height="768" alt="editNanoCatLess" src="https://github.com/user-attachments/assets/55b86762-cc29-4988-a7da-daa4cf723340" />
+- Copy/Move/Delete & Sizes: <img width="1024" height="768" alt="CopyMoveDeleteSizes" src="https://github.com/user-attachments/assets/b6ad6a69-77f9-4498-84af-fc2a9278c7c4" />
+- System Information: <img width="1024" height="768" alt="SystemInfo" src="https://github.com/user-attachments/assets/66f6b056-8813-47d2-b3ed-e4db83852761" />
+- Superuser Demonstration: <img width="1024" height="768" alt="SuperuserDemo" src="https://github.com/user-attachments/assets/982c1c0c-e84d-4727-a485-b91c5037e407" />
+- Networking & DNS:
+    - Private IP & ping: <img width="1024" height="768" alt="PrivateIP Ping" src="https://github.com/user-attachments/assets/3c6e2d3d-1dad-410c-a3ce-b8ed6bd61b48" />
+    - /etc/hosts edit & test: 
